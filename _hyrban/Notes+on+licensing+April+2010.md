@@ -1,9 +1,15 @@
+---
+layout: hyrban
+title: Notes on licensing April 2020
+date: 2022-06-10
+description: TODO-description
+---
 %%(width:750px;)
-!Intro
+###Intro
 
 The licensing regime is critical to the success of any open source project. There is an on-going debate amongst those running 40 Fires as to what regime to put in place. We are breaking new ground. A Word document is attached, which you can download by clicking on the Attach label above. or read it below. And to join the discussion, the forum is embedded at the bottom of this page:
 
-!Summary
+###Summary
 
 Our vision is of a world where the technology to produce low carbon, sustainable vehicles is shared freely. 
 
@@ -11,7 +17,7 @@ Our task is to create a legal and economic system to encourage cooperation and t
 
 Our assumption has to be that people are in general rational, and respond to incentives. So that if we can create a framework within which, for most people, the advantages of adhering to the norms of behaviour of the community are greater than the advantages of not adhering, we will create a sustainable community and achieve our aims. 
 
-!Some basic principles
+###Some basic principles
 
 - There must be low barriers to entry (although there may be higher barriers where the rewards for participating are high).
 
@@ -19,7 +25,7 @@ Our assumption has to be that people are in general rational, and respond to inc
 
 - Riversimple is to be treated symmetrically to other manufacturers. 
 
-!Some observations
+###Some observations
 
 - __40 Fires/Riversimple__  When considering what legal and economic structure to devise, we need to bear in mind the broad aims of 40 Fires and not just those of the participants such as founder Riversimple LLP.  
 
@@ -115,7 +121,7 @@ There is also the point that there are many advantages of working with a communi
 
 Andrew Katz believes the fear of free riders, in the software world at least, is “very exaggerated. In practice, there are plenty of successful projects (FreeNAS, Apache) which do not rely on strong copyleft to support them, and thrive despite there being “free riders”. We need to consider this further, but members of the Apache community are resistant to the idea of strong copyleft, because of licence incompatibilities between projects, because, the “viral” nature (which admittedly is largely imagined) scares off potential adopters, and because it makes the whole licensing structure very complex. Having said that, it may be dangerous to assume that what works in a software world, will translate to the world of hardware.”
 
-!My tentative conclusions
+###My tentative conclusions
 
 40 Fires should opt for an “academic” license similar to the BSD, allowing licensees to redistribute data with only limited restrictions, and no obligation to share. At the same time, we would highlight the benefits of sharing data with the community and that 40 Fires has been established with the intention of encouraging sharing to the maximum extent, consistent with commercial success for those participants who need to make a living from their participation. 
 

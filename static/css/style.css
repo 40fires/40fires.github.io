@@ -1,0 +1,47 @@
+body {
+    background: white;
+    margin: 40px auto;
+    width: 750px;
+    font: 11pt/14pt Verdana, sans-serif;
+}
+
+h2 {
+    font-size: 1.2rem;
+    font-weight: 800;
+    line-height: 1.5rem;
+}
+
+img {
+    max-width: 100%;
+}
+
+#pageTop {
+    background: #DDD;
+    display: inline-block;
+    width: 100%;
+}
+
+#foundationLogo {
+   padding: 26px 0 0 26px;
+}
+
+
+.content {
+    font: 11pt/14pt Verdana, sans-serif;
+}
+
+a.external {
+    color: #000;
+}
+
+.darkred {
+    color: darkred;
+}
+
+.red {
+    color: red;
+}
+
+.orange {
+    color: orange;
+}

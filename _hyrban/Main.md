@@ -1,51 +1,19 @@
-[{ALLOW delete 40firesadmin}]
-[{ALLOW Delete Admin}]
-[{ALLOW view All}]
-
-%%(position:absolute; left:27%; width:750px; height:1400px;)
-
-
-%%(display:text;  font-weight:bolder; font-size:1.6em; line-height:1.8em; width:80%; float:right;)
-%%(text-align:right;)
-
-The %%(color:darkred;)40%% %%(color:red;) Fires %% %%(color:orange;) Foundation %% takes an open source approach to developing energy-efficient technology
-
-%%
-%%
+---
+layout: hyrban
+title: The Hyrban main page
+date: 2022-06-10
+description: TODO-description
+---
 
 
-----
-
-!!The first project is an open source hydrogen fuel cell electric car
-\\
+The __<span class="darkred">40</span> <span class="red">Fires</span> <span class="orange">Foundation</span>__ takes an open source approach to developing energy-efficient technology
 
 
-%%(position:relative; width:100%; height:25%; align:center; background-color:lightgrey; )
+## The first project is an open source hydrogen fuel cell electric car
 
 
-%%(position:absolute; padding:20px; font-size:1em; width:32%; background-color:white;  top:9%; left:4%; height:70%;)
-
-40 Fires will host the development of the  [Riversimple|http://www.riversimple.com] hydrogen fuel cell powered network electric car.
-
-The development programme is not yet fully active. Today this site contains information on the Riversimple car, and the concept of making a car open source. 
- 
-%%
-%%(position:relative; display:block; right:-45%; bottom:-13%)
-[{MungeHTML MungeID='youtube' id='vkgoNnKCA4s' width='50%' height='80%'}]
-%%
-%%
-
-\\
-
-\\\\\\
-
-%%%%
-
-%%%%%%%%%%
+40 Fires will host the development of the  [https://www.riversimple.com](https://www.riversimple.com "Riversimple"){: .external } hydrogen fuel cell powered network electric car.
 
 
+The development programme is not yet fully active. Today this site contains information on the [Riversimple car](The+Hyrban.html), and the concept of making a car open source. 
 
-%%
-%%(height:550px;)
-
-%%

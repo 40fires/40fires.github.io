@@ -1,4 +1,10 @@
-!!%%(text-decoration:underline; color:grey; )4. Proven Track Record%%
+---
+layout: hyrban
+title: Hydrogen Safety - 4. Proven Tract Record
+date: 2022-06-10
+description: TODO-description
+---
+##%%(text-decoration:underline; color:grey; )4. Proven Track Record%%
 \\
 Hydrogen has been used commercially for many years [5]. Some of the current uses include: \\
 * Ammonia produced from hydrogen for use in fertilisers and for reducing sulphur in crude oil.\\
@@ -9,7 +15,7 @@ Hydrogen has been used commercially for many years [5]. Some of the current uses
 * Extensive use by NASA, both as a liquid rocket fuel for the main engines, and as an onboard fuel in space craft for creating electricity and water to drink using fuel cells.\\
 Commercially, it is found that the safety record for hydrogen is excellent; there is no evidence to suggest that hydrogen is any more dangerous than other fuels of similar energy content. 
 \\
-!%%(text-decoration:underline; color:grey; )Composite Cylinders%%
+###%%(text-decoration:underline; color:grey; )Composite Cylinders%%
 \\
 The main fuel storage for compressed hydrogen will be in composite cylinders. These cylinders have been used extensively in the past and are engineered to high safety factors (2.25 minimum [5]) and tested exhaustively. According to a mechanical engineer at Quantum [13], a fuel storage systems company, some of the tests include:
 \\

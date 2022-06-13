@@ -1,4 +1,10 @@
-!!%%(text-decoration:underline; color:grey; )7. Conclusions%%
+---
+layout: hyrban
+title: Hydrogen Safety - 7. Conclusions
+date: 2022-06-10
+description: TODO-description
+---
+##%%(text-decoration:underline; color:grey; )7. Conclusions%%
 \\
 There is a large amount of information available concerning hydrogen as a fuel for vehicles. This report has attempted to draw together the available information and draw conclusions as to hydrogen safety in a fair, critical and transparent manner. 
 \\

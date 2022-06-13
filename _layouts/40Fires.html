@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+    {% include head.html %}
+    <body>
+
+        {% include pagetop.html %}
+
+        {{ content }}
+
+        <script type="text/javascript">
+         function ready(fn) {
+             if (document.addEventListener) {
+                 document.addEventListener('DOMContentLoaded', fn);
+             } else {
+                 document.attachEvent('onreadystatechange', function() {
+                     if (document.readyState === 'interactive')
+                         fn();
+                 });
+             }
+         }
+
+         ready(function() {
+             /*          {% if page.menus %}{% capture selectMenus %}{% for item in page.menus %}'{{ item }}',{% endfor %}{% endcapture %}selectMenus([ {{ selectMenus }} ]);{% endif %} */
+             /* add other stuff */
+
+             var classFoundList = document.getElementsByClassName('cell');
+             for(var i=0;i<classFoundList.length;i++){
+                 classFoundList[i].addEventListener('mouseover', flipCell );
+                 classFoundList[i].addEventListener('mouseout', unflipCell );
+             }
+
+             /*if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0) || (true)) {*/
+             if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)) {
+                 /* browser with either Touch Events of Pointer Events running on touch-capable device */
+                 var b = document.getElementsByTagName('body');
+                 if (b.length > 0) {
+                     if (b[0].classList) {
+                         b[0].classList.add('touch');
+                     } else {
+                         b[0].className += ' ' + 'touch';
+                     }
+                 }
+             }
+         });
+
+         /* href="/work" */
+         /* window.location = /work;*/
+
+
+        </script>
+
+        <!--[if lte IE 8]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+        <noscript>
+            <div class="noscript">
+	            <p>This site requires JavaScript. Please enable JavaScript in you browser settings.</p>
+	        </div>
+        </noscript>
+
+    </body>
+
+</html>

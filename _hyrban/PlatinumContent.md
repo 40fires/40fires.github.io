@@ -1,12 +1,18 @@
+---
+layout: hyrban
+title: Platinum Content
+date: 2022-06-10
+description: TODO-description
+---
 %%(position:relative; width:750px;)
 
 %%(text-align:center; background-color:lightgrey; width:80%; left:10%; position:relative;)
-!!!An Overview and Comparison of Platinum Used in the Automotive Industry
-!!Chris Stevens and Simon Vaughan (August 2010)
+#An Overview and Comparison of Platinum Used in the Automotive Industry
+##Chris Stevens and Simon Vaughan (August 2010)
 %%
 \\
 %%(text-align:justify;)
-!!%%(text-decoration:underline; color:grey;)Introduction%%
+##%%(text-decoration:underline; color:grey;)Introduction%%
 
 \\
 PGMs (Platinum Group Metals) have been used in the automotive industry since the need to reduce emissions harmful to both humans and the earth has been publically recognized. Traditionally these PGMs have been used in catalytic converters in standard gasoline and diesel cars. However as technology progresses away from the ICE platinum, in particular, has found uses in Fuel Cells.
@@ -19,7 +25,7 @@ The problem with catalytic converters is that they degrade over their lifetime. 
 
 \\
 \\
-!!%%(text-decoration:underline; color:grey;)The Recycling of Platinum:%%
+##%%(text-decoration:underline; color:grey;)The Recycling of Platinum:%%
 
 \\
 In both the catalytic converter and fuel cell it is possible to recover almost all of the platinum. Around 98% [3] of the platinum can be recovered from a fuel cell and around 97% [4] in the case of the catalytic converter. 
@@ -32,7 +38,7 @@ So it seems that it’s the business model and not the object being recycled tha
 
 \\
 \\
-!!%%(text-decoration:underline; color:grey;)Why is this important?%%
+##%%(text-decoration:underline; color:grey;)Why is this important?%%
 
 \\
 Primarily there are a lot of environmental impacts of platinum extraction and production. Such impacts include:
@@ -76,7 +82,7 @@ The table above shows the roungh percentage of platinum recovered. The two left 
 
 \\
 
-!!%%(text-decoration:underline; color:grey; )Sources%%
+##%%(text-decoration:underline; color:grey; )Sources%%
 \\
 [1]  A. Fornalczyk and M. Saternus, 2008. Removal of PGMs from the used auto catalytic conveter [online] Metalurgija 48. Available at <http://hrcak.srce.hr/file/50889> [Accessed 11 Aug 2010]
 \\

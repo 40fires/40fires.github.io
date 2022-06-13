@@ -1,3 +1,9 @@
+---
+layout: hyrban
+title: System Info
+date: 2022-06-10
+description: TODO-description
+---
 Here are some strategical figures and other interesting things about this particular Wiki.  All this information is available in [WikiVariables] as well, if you want to use them on some other page.
 
 | __Application name__               | [{$applicationname}]
@@ -15,27 +21,27 @@ Here are some strategical figures and other interesting things about this partic
 | __Additional Plugin Search Path__  | [{$pluginpath}]
 | __Installed [PageFilters]__        | [{$pagefilters}]
 
-!Usability
+###Usability
 
 | __Do we beautify titles?__ | [{$jspwiki.breakTitleWithSpaces}]
 | __Do we match english plural forms?__ | [{$jspwiki.translatorReader.matchEnglishPlurals}]
 | __Are CamelCase links used?__ | [{$jspwiki.translatorReader.camelCaseLinks}]
 | __Is HTML allowed on pages?__ | [{$jspwiki.translatorReader.allowHTML}]
 
-!RichSiteSummary
+###RichSiteSummary
 
 | __Do we generate RSS files?__ | [{$jspwiki.rss.generate}]
 | __If we do, what's the file name?__ | [{$jspwiki.rss.fileName}]
 | __How often is the RSS updated?__ |  [{$jspwiki.rss.interval}]
 
-!Personal information
+###Personal information
 
 Here is what I know about you currently:
 
 | __User name__    | [{$username}]
 | __Login status__ | [{$loginstatus}]
 
-!List of currently edited pages
+###List of currently edited pages
 
 [{ListLocksPlugin}]
 

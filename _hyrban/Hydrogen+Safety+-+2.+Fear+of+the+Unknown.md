@@ -1,4 +1,10 @@
-!!%%(text-decoration:underline; color:grey; )2. Fear of the Unknown%%
+---
+layout: hyrban
+title: Hydrogen Safety - 2. Fear of the Unknown
+date: 2022-06-10
+description: TODO-description
+---
+##%%(text-decoration:underline; color:grey; )2. Fear of the Unknown%%
 \\
 Fear of change and fear of the unknown is a major issue for any new technology. It is interesting to note that the public perception of gasoline as a fuel in 1875 was negative in regards to safety. A quote from a Congressional Record statement illustrates this:
 \\

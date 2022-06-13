@@ -1,9 +1,15 @@
-[{ALLOW delete 40firesadmin}]
-[{ALLOW view All}]  
-%%(position:static; width:700px;)
-!!!Hyrban
+---
+layout: hyrban
+title: Gallery
+date: 2022-06-10
+description: TODO-description
+---
 
-!!Photos and renders
+  
+%%(position:static; width:700px;)
+#Hyrban
+
+##Photos and renders
 \\
 
 %%(position:relative; height:600px;)
@@ -43,7 +49,7 @@ border='0' caption='under the bonnet' alt='a picture of the fuel cell and fans' 
 \\
 ----
 
-!!Blueprints, diagrams and schematics
+##Blueprints, diagrams and schematics
 %%(position:relative; height:600px;)
 %%()
 [{Image src='http://www.40fires.org/attach/The%20Hyrban/network_electric.png' width='200px' 

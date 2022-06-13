@@ -1,4 +1,10 @@
-!!%%(text-decoration:underline; color:grey; )8. References%%
+---
+layout: hyrban
+title: Hydrogen Safety -8. References
+date: 2022-06-10
+description: TODO-description
+---
+##%%(text-decoration:underline; color:grey; )8. References%%
 \\
 
 [#1]	G.J. Offer, D. Howeyb, M. Contestabile, R. Clague, N.P. Brandon., 2009. Comparative analysis of battery electric, hydrogen fuel cell and hybrid vehicles in a future sustainable road transport system. Energy Policy, Volume 38, Issue 1, January 2010, Pages 24-29.

@@ -1,11 +1,17 @@
-[{ALLOW delete 40firesadmin}]
-[{ALLOW Delete Admin}]
-[{ALLOW view All}]
+---
+layout: hyrban
+title: Hyrban front suspension
+date: 2022-06-10
+description: TODO-description
+---
+
+
+
 
 %%(width:750px;)
 Please follow this link for access to CAD models : [Hyrban CAD models]\\
 \\
-!1. General concept 
+###1. General concept 
 
 As for all components of the car, the primary target for the front suspension design was minimal weight, with good ride, handling and roadholding performance. The fuel cell stack is located at the front of the car so the front suspension assembly also had to be compact and not impinge on packaging space excessively (see Figure 1 to 4).
 \\ 
@@ -17,7 +23,7 @@ Figure 1 is a bottom view, the front of the car is on the right and the rear on 
 [{Image src='Picture 4.png' align='center' width='400' caption='Figure 3' alt='figure3' }]
 [{Image src='Picture 5.png' align='center' width='400' caption='Figure 4' alt='figure4' }] 
 
-!2. Assembly design 
+###2. Assembly design 
 
 To achieve a lightweight and compact design with good ride and handling, a semi-leading arm configuration was used. The suspension is designed so that the anchor points of the suspension are as far back as possible on the chassis. The target was to have no mounting points ahead of the firewall. With the pick up points of the rear suspension pushed as far forward as possible, the distance between suspension pickup points is reduced, improving chassis torsional rigidity.  A related but separate point is that it also avoids the necessity of providing rigid chassis members further forward, reducing structural weight.
 The steering rack and semi-leading arm pickups are located underneath an aluminium subframe with a mass of 1.475kg. This subframe was a separate component in order to simplify monocoque production and give flexibility for late design changes and modifications in development; in a production vehicle, these pickups would probably be mounted directly to the chassis, unless it is felt wise to have a separate sacrificial subframe to reduce the chance of monocoque damage in an accident.
@@ -45,7 +51,7 @@ Figures 9 and 10 are back and side views of a corner assembly.
 
 
 ----
-! Discuss these designs
+### Discuss these designs
 [{MungeHTML MungeID='nabblelink' reference='f3565093' name='2.1 Suspension and steering' plainName='2.1 Suspension and steering'}]
 
 Click [here|hyrban technical design forums] to return to the 40 Fires Forum.

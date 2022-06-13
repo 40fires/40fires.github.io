@@ -1,3 +1,9 @@
+---
+layout: hyrban
+title: Hyrban Styling
+date: 2022-06-10
+description: TODO-description
+---
 [{ALLOW Delete 40firesadmin}]
 [{ALLOW View 40firesadmin}]
 [{ALLOW View Chris_Reitz}]
