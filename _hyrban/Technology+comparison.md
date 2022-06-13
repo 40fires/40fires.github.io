@@ -1,15 +1,20 @@
-[{ALLOW delete 40firesadmin}]
-[{ALLOW view All}]
-%%(width:750px)
-!!!1. Technology Comparison
+---
+layout: hyrban
+title: Technology Comparison
+date: 2022-06-10
+description: TODO-description
+---
+
+
+# 1. Technology Comparison
 
 This report aims to give a clear and neutral comparison between the different technologies, and their efficiencies.
 \\
-!!2. Technology Options
+# 2. Technology Options
 
 \\
 \\
-!2.1 ICE 
+## 2.1 ICE 
 \\ 
 ICEs (internal combustion engines), use the combustion of petrol or diesel to drive the engine. It is the engine that drives all conventional cars. Petrol engines are about 18-20% [1] efficient and diesel engines are about 37%, with peak efficiency about 45% [2]. Diesel engines are more efficient as they use high compression ratios to ignite the fuel.
 
@@ -19,7 +24,7 @@ caption = 'The smart diesel, the most efficient conventional car being produced 
 
 \\
 \\
-!2.2 Hybrids
+## 2.2 Hybrids
 \\
 Hybrids have two motors, a petrol one and an electric one. They also have two stores of energy; the battery, and petrol tank. This makes the car very heavy. The wheels can be powered by either motor, depending on how the car is being driven.
 
@@ -35,7 +40,7 @@ Also, they will not be a sustainable option for the future as they still use pet
 
 \\
 \\
-! 2.3 E-REV
+## 2.3 E-REV
 \\
 E-REVs, extended range electric vehicles, are similar to hybrids in many ways; they both run off either petrol or a battery. However the wheels are only driven by an electric motor. The petrol goes to a generator which converts it into electricity to drive the electric motor. 
 The E-REV runs off just the battery until it is drained after which it will use the generator to create electricity to drive the electric motor.
@@ -50,7 +55,7 @@ E-REV are not a sustainable option for the future as they use petrol.
 \\
 \\
 
-!2.4 BEV\\
+## 2.4 BEV\\
  Battery Electric Vehicles, store the energy in the battery which is used to drive the electric motor. The power train is very simple.
 
 The energy is stored in the battery, with very little being discharged when the car is not being used. The charging of a battery is about 90% [5] efficient, so more energy will be used than is stored in the battery. The discharge of batteries is also 90% [6] efficient, and all the energy which is stored in the battery cannot be used without damaging the battery, 20% needs to remain in the battery[7].
@@ -69,7 +74,7 @@ Lighting, heating and cooking should all take priority for electricity over tran
 \\
 
 
-!2.5 Hydrogen fuel cell vehicles
+## 2.5 Hydrogen fuel cell vehicles
 \\
  Hydrogen can be used to create electricity through hydrolysis in a fuel cell. The electricity is then used to power the electric motor which drives the car. This is a much lighter option to a battery, meaning that less power is needed to run the car. However the fuel cell is only about 50% efficient [10], and very expensive.\\
 
@@ -84,7 +89,7 @@ Fuel cells are expensive.
 Hydrogen is currently being created by steam reforming from natural gas.
 \\
 \\
-!! 3. Efficiency Comparison
+# 3. Efficiency Comparison
 \\
 \\
 It is important to be able to compare all the different vehicles. A way of unifying across all categories is to calculate the CO2 emitted from well to wheel (WTW) per km driven by the car. This method makes it easy to assess the environmental impact of the car this way. The units which are often used to measure the energy use, in order to compare across energy sources is MJ/100km. This is km driven by the vehicle.
@@ -127,10 +132,10 @@ Caption = 'CO2 per km calculated from manufacturers figures.}]
 \\
 
 \\
-!!4. Fuel efficiency Validation\\
+##4. Fuel efficiency Validation\\
   The efficiency values stated by Vauxhall for the Ampera, appear to be unrealistic based on the weight, size of the car, and the losses in the complex power train.\\
 \\
-!	Battery only TTW efficiency\\
+###	Battery only TTW efficiency\\
 \\
 •	The Vauxhall Ampera has a lithium ion battery pack total capacity of 16kwh.\\
 •	Lithium ion batteries can only be discharged to 20% of their capacity. \\
@@ -138,7 +143,7 @@ Caption = 'CO2 per km calculated from manufacturers figures.}]
 •	The Vauxhall Ampera battery only range is 40 miles or 64.36km\\
 •	Therefore on petrol alone the TTW efficiency is 72MJ/100km which is equivalent to 128mpg. \\
 \\
-!	Petrol only TTW efficiency\\
+###	Petrol only TTW efficiency\\
 	\\
 •	The Vauxhall Ampera has a 30L fuel tank holding 971.7MJ\\
 •	IT has a range of 310 miles on just petrol\\
@@ -149,7 +154,7 @@ The differences in efficiencies of the vehicles come from the efficiency of the 
 [{Image src = 'EREVefficiency.jpg' width = '600px' height  = '200px' align = 'center'}] 
 \\
 \\
-!	Comparison of Calculated and Manufacturer Fuel Efficient Values\\
+###	Comparison of Calculated and Manufacturer Fuel Efficient Values\\
 \\
 
 Vauxhall Ampera values calculated in different ways.\\
@@ -187,9 +192,9 @@ One way to calculate 150mpg when travelling 60 miles\\
 \\When asked how the 175mpg had been calculated they responded “I can advise, given the sensitive nature of your enquiry, it is not possible to supply this information, as it is for internal use only.” This is an interesting response as these figures have been published on the Vauxhall Ampera website, so have been available for the public.
 \\
 \\
-!! Battery electric Vehicle Efficiencies
+## Battery electric Vehicle Efficiencies
 
-!	WTW  Processes for BEV
+###	WTW  Processes for BEV
 
 [{Image src = 'BEVefficiency.jpg' align = 'center' width= '700px' height = '300px'}]\\
 \\
@@ -197,7 +202,7 @@ The red arrows show the WTT processes, the blue arrows show the TTW processes.\\
 
 Often the WTT processes aren’t taken into account when calculating the CO2 produced by BEV. \\
 \\
-!	Losses in the complete BEV Power-train.\\
+###	Losses in the complete BEV Power-train.\\
 \\
 The EU mix for electricity which is used in the Concawe reports produces 129.2g of C02 per MJ of electricity, at the socket.\\
 \\
@@ -206,11 +211,11 @@ The EU mix for electricity which is used in the Concawe reports produces 129.2g 
 The discharge efficiency of a battery is about 90% as well according to Tesla. An electric motor is about 90% efficient also. This process will be typical of all BEV.\\
 
 
-!	Battery Capacity\\ 
+###	Battery Capacity\\ 
 \\
 Automotive manufacturers give the capacity of batteries in KWH. The total Capacity of the battery can’t be used without damaging the battery. Therefore normally the battery is just discharged to 20%. Therefore when working out the efficiency based on the range and the battery capacity, only 80% of the capacity should be used.\\
 \\
-!	Newly calculated BEV grams of CO2\\
+###	Newly calculated BEV grams of CO2\\
 
 \\
  Values for battery electric vehicles have been calculated, assuming charging the battery from 20% until full, and that the total grams of CO2 per MJ is 142.3g. They work out to be similar if the full capacity of the battery was taken into account.\\
@@ -243,9 +248,9 @@ This shows clearly, that the electric vehicles, and also the Riversimple car pro
 
 
 
-!! References\\
+## References\\
 \\
-! All pictures from green.autoblog.com\\
+### All pictures from green.autoblog.com\\
 \\
 
 1 C Johnson, 2010, Physics in an Automotive engine, available at: < [http://mb-soft.com/public2/engine.html|pagename]> [accessed 25 August 2010]\\

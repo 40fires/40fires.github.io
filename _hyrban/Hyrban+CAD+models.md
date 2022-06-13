@@ -1,43 +1,46 @@
-[{ALLOW delete 40firesadmin}]
-[{ALLOW Delete Admin}]
-[{ALLOW view All}]
+---
+layout: hyrban
+title: Hyrban CAD Modles
+date: 2022-06-13
+description: A listing of CAD models
+---
 
-%%(width:750px;)
-You will find below CAD models of various components of the Riversimple Hyrban technology demonstrator\\
-The file format is IGS. It can be opened with most CAD softwares and free viewers can also be downloaded.\\
-More information and technical descriptions of the components can be found on [the car's technical description page|The Hyrban].\\
-Just click on the folling links to download the IGS files\\
-\\
-- [Suspension geometry|http://wiki.40fires.org/attach/Hyrban CAD models/suspension_hardpoints.igs]\\
+
+You will find below CAD models of various components of the Riversimple Hyrban technology demonstrator
+
+The file format is IGS. It can be opened with most CAD softwares and free viewers can also be downloaded.
+
+More information and technical descriptions of the components can be found on [the car's technical description page](The+Hyrban.html).
+
+Just click on the following links to download the IGS files
+
+- [Suspension geometry](/storage/Hyrban+CAD+models-att/suspension_hardpoints.igs-dir/1.igs)  
 Points and lines following the hard points of the front and rear suspensions (semi-leading and semi-trailing arms pick-up points, steering rods and toe links, dampers mounting points.)
-[{Image src='suspension_geo.JPG' width='400' link='http://wiki.40fires.org/attach/Hyrban CAD models/suspension_hardpoints.igs'}]
-\\
-- [Rear suspension general assembly|http://wiki.40fires.org/attach/Hyrban CAD models/rear_suspension_v01_GA.igs]\\
-[{Image src='rear_susp_igs.png' width='300' link='http://wiki.40fires.org/attach/Hyrban CAD models/rear_suspension_v01_GA.igs'}]
-\\
-- [Front suspension general assembly|http://wiki.40fires.org/attach/Hyrban CAD models/front_suspension_v01_GA.igs]\\
-[{Image src='front_susp_igs.png' width='300' link='http://wiki.40fires.org/attach/Hyrban CAD models/front_suspension_v01_GA.igs'}]\\
-\\
-- [Lower part of the monocoque|http://wiki.40fires.org/attach/Hyrban CAD models/monocoque_lower_v01.igs]\\
-[{Image src='monocoque_lower.JPG' width='400' link='http://wiki.40fires.org/attach/Hyrban CAD models/monocoque_lower_v01.igs'}]
-\\
-- [Monocoque structure|http://wiki.40fires.org/attach/Hyrban CAD models/Monocoque_v01.igs]\\
-[{Image src='monocoque_v01.PNG' width='400' link='http://wiki.40fires.org/attach/Hyrban CAD models/Monocoque_v01.igs'}]
-\\
-- [Bonnet|http://wiki.40fires.org/attach/Hyrban CAD models/Bonnet_v01.igs]\\
-[{Image src='bonnet.PNG' width='400' link='http://wiki.40fires.org/attach/Hyrban CAD models/Bonnet_v01.igs'}]
-\\
-- Doors (outter skin)\\
-- [Left door|http://wiki.40fires.org/attach/Hyrban CAD models/Door_OuterSkin_L_v01.igs]\\
-- [Right door|http://wiki.40fires.org/attach/Hyrban CAD models/Door_OuterSkin_R_v01.igs]\\
-[{Image src='doors.PNG' width='400' }]\\
-\\
-- Glazing\\
-- [Front screen|http://wiki.40fires.org/attach/Hyrban CAD models/Front_screen_v01.igs]\\
-- [Rear screen|http://wiki.40fires.org/attach/Hyrban CAD models/rear_screen_v01.igs]\\
-- [Left window|http://wiki.40fires.org/attach/Hyrban CAD models/Side_screen_L_v01.igs]\\
-- [Right window|http://wiki.40fires.org/attach/Hyrban CAD models/Side_screen_R_v01.igs]\\
-- [Headlamp left|http://wiki.40fires.org/attach/Hyrban CAD models/headlamp_glass_L_v01.igs]\\
-- [Headlamp right|http://wiki.40fires.org/attach/Hyrban CAD models/headlamp_glass_R_v01.igs]\\
-[{Image src='glazing.PNG' width='400' }]
-%%
+- [Suspension hardpoints](/storage/Hyrban+CAD+models-att/supsension_hardpoints.igs-dir/1.igs)
+- [Rear suspension general assembly](/storage/Hyrban+CAD+models-att/rear_suspension_v01_GA.igs-dir/1.igs)
+- [Front suspension general assembly](/storage/Hyrban+CAD+models-att/front_suspension_v01_GA.igs-dir/1.igs)
+- [Lower part of the monocoque](/storage/Hyrban+CAD+models-att/monocoque_lower_v01.igs-dir/1.igs)
+- [Monocoque structure](/storage/Hyrban+CAD+models-att/Monocoque_v01.igs-dir/1.igs)
+- [Bonnet](/storage/Hyrban+CAD+models-att/Bonnet_v01.igs-dir/1.igs)
+
+
+
+## Doors (outter skin)
+  - [Left door](/storage/Hyrban+CAD+models-att/Door_OuterSkin_L_v01igs-dir/1.igs)
+  - [Right door](/storage/Hyrban+CAD+models-att/Door_OuterSkin_R_v01igs-dir/1.igs)
+
+![A door](/storage/Hyrban+CAD+models-att/doors.PNG-dir/1.PNG)
+*Doors*
+
+
+## Glazing
+  - [Front screen](/storage/Hyrban+CAD+models-att/Front_screen_v01igs-dir/1.igs)
+  - [Rear screen](/storage/Hyrban+CAD+models-att/rear_screen_v01igs-dir/1.igs)
+  - [Left window](/storage/Hyrban+CAD+models-att/Side_screen_L_v01igs-dir/1.igs)
+  - [Right window](/storage/Hyrban+CAD+models-att/Side_screen_R_v01igs-dir/1.igs)
+  - [Headlamp left](/storage/Hyrban+CAD+models-att/headlamp_glass_L_v01igs-dir/1.igs)
+  - [Headlamp right](/storage/Hyrban+CAD+models-att/headlamp_glass_R_v01igs-dir/1.igs)
+
+![Glazing](/storage/Hyrban+CAD+models-att/glazing.PNG-dir/1.PNG)
+*Glazing*
+

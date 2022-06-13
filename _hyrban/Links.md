@@ -1,16 +1,22 @@
-[{ALLOW delete 40firesadmin}]
-[{ALLOW Delete Admin}]
-[{ALLOW view All}]
+---
+layout: hyrban
+title: Links
+date: 2022-06-10
+description: TODO-description
+---
+
+
+
 
 This page has links to various sources of information. 
 
-!Riversimple links
+###Riversimple links
 
 The website of our founding sponsor Riversimple LLP can be found [here| http://riversimple.com]
 
 Here are [podcasts | http://www.wearefutureproof.org.uk/Podcast.xml] of interviews with [Hugo Spowers] from summer 2008 and with [Patrick Andrews] from spring 2009, done by Future Proof
 
-!Other attempts at open source cars
+###Other attempts at open source cars
 
 Some of these are moribund, and not all are strictly open source, but they're interesting nonetheless:
  
@@ -23,7 +29,7 @@ Some of these are moribund, and not all are strictly open source, but they're in
 
 [Project Splitwheel|http://www.splitwheel.com]   Venture involving Caterham Cars (put on hold due to credit crunch]. 
 
-!Other interesting links
+###Other interesting links
 
 There's a good blog at [movement design| http://movementbureau.blogs.com/projects/]
 

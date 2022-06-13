@@ -1,11 +1,17 @@
-[{ALLOW delete 40firesadmin}]
-[{ALLOW Delete Admin}]
-[{ALLOW view All}]
+---
+layout: hyrban
+title: Hyrban rear suspension
+date: 2022-06-10
+description: TODO-description
+---
+
+
+
 %%(width:750px;)
 
 Please follow this link for access to CAD models : [Hyrban CAD models]\\
 \\
-!1. General concept 
+###1. General concept 
 
 The Riversimple technology demonstrator has been designed with "maximum overall efficiency" in mind and the rear suspension follows the same philosophy. The primary target was minimal weight commensurate with good handling and roadholding. 
 
@@ -14,7 +20,7 @@ The decision to use hub motors rather than inboard motors and driveshafts placed
 \\ 
 [{Image src='rear_susp.png' align='center' width='400' caption='Figure 1' alt='figure1' }] 
 
-!2. Assembly design 
+###2. Assembly design 
 
 As seen on Figure 1, with a track of 1300mm and a fuel tank length of 915mm, the choice of semi-trailing arm is optimum for packaging. The only other layout that could come close to satisfying these requirements was a single trailing arm wrapping round behind the hydrogen tank that would have been in effect both a dead axle and anti-roll bar. However, this would have been heavier, would not allow camber change and anti-roll would not be desirable anyway. The suspension uses a lightweight steel tubular subframe (1.9kg) fixed to the car's composite monocoque. It provides pick-ups for both the semi-trailing arms and the shock absorbers. 
 \\ 
@@ -51,7 +57,7 @@ As we can see from this short description, the suspension design was mainly driv
 [{Image src='Picture 6.png' align='center' width='400' caption='Figure 6' alt='figure1' }] 
 
 ----
-! Discuss these designs
+### Discuss these designs
 [{MungeHTML MungeID='nabblelink' reference='f3565093' name='2.1 Suspension and steering' plainName='2.1 Suspension and steering'}]
 
 Click [here|hyrban technical design forums] to return to the 40 Fires Forum. 

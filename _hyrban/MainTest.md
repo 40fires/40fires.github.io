@@ -1,6 +1,12 @@
-[{ALLOW delete 40firesadmin}]
-[{ALLOW Delete Admin}]
-[{ALLOW view All}]
+---
+layout: hyrban
+title: Main Test
+date: 2022-06-10
+description: TODO-description
+---
+
+
+
 
 
 %%(position:absolute; width:750px; height:1400px;)
@@ -18,7 +24,7 @@ The %%(color:darkred;)40%% %%(color:red;) Fires %% %%(color:orange;) Foundation 
 ----
 
 
-!!The first project is an open source hydrogen fuel cell electric car
+##The first project is an open source hydrogen fuel cell electric car
 
 %%(width:100%; height:12%; align:left; background-color:lightgrey; )
 
@@ -56,7 +62,7 @@ The long term aim is to make as much of the car open source as possible, consist
 
 %%( position:relative; width:100%)
 
-!!Areas of the Wiki
+##Areas of the Wiki
 We are currently working on specific aspects of the project. If you want to help us, follow the links on the left or below!
 
 
@@ -65,17 +71,17 @@ We are currently working on specific aspects of the project. If you want to help
 %%(position:relative; width:48%; float:right; font-size:0.9em; )
 %%warning
 
-!!%%(text-decoration:underline;)Technical Designs%%\\
+##%%(text-decoration:underline;)Technical Designs%%\\
 Take a look at our current suspension design, can you improve it?\\
 
 [Suspension Design|Suspension design]
 
-!!%%(text-decoration:underline;)Licensing%%\\\
+##%%(text-decoration:underline;)Licensing%%\\\
 
 We are working towards a complete licensing strategy for the car. You will find notes on licensing and forum discussions __[here|notes on licensing April 2010]__\\
 and additional notes [here|further license notes - 27 April]\\
 
-!!%%(text-decoration:underline;)The Forums%%\\
+##%%(text-decoration:underline;)The Forums%%\\
 
 Join our discussions in many different areas of design, engineering and business.
 Please see either:\\
@@ -87,7 +93,7 @@ Please see either:\\
 to join one of our on going discussions or to start your own.
 \\
 
-!!%%(text-decoration:underline;)Media%%\\
+##%%(text-decoration:underline;)Media%%\\
 
 [Photo Gallery|Gallery]\\
 \\
@@ -96,7 +102,7 @@ to join one of our on going discussions or to start your own.
 [Articles and Relevant Information|Articles]\\
 \\
 
-!!%%(text-decoration:underline;)The Hyrban%%
+##%%(text-decoration:underline;)The Hyrban%%
 
 [The project|The Hyrban]\\
 \\
@@ -105,7 +111,7 @@ to join one of our on going discussions or to start your own.
 %%(float:left; position:relative; width:48%; font-size:0.9em;)
 %%information
 
-!!%%(text-decoration:underline;)News%%\\\
+##%%(text-decoration:underline;)News%%\\\
 
 __15/07/2010__\\
 An interesting definition of open source hardware. Nothing revolutionary, but still helpful. See  [http://freedomdefined.org/OSHW]

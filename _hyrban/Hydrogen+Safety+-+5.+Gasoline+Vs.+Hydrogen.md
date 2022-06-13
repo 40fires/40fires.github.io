@@ -1,8 +1,14 @@
-!!%%(text-decoration:underline; color:grey; )5. Gasoline vs. Hydrogen%%
+---
+layout: hyrban
+title: Hydrogen Safety - 5. Gasoline vs Hydrogen
+date: 2022-06-10
+description: TODO-description
+---
+##%%(text-decoration:underline; color:grey; )5. Gasoline vs. Hydrogen%%
 \\
 Gasoline has been accepted widely as a vehicle fuel for many years. This section attempts to draw comparisons and contrasts to the characteristics of gasoline and hydrogen in an attempt to provide a firm basis from which to relate the familiar experience of using gasoline, to the unfamiliar experience of using hydrogen.
 \\
-!%%(text-decoration:underline; color:grey; )Stored Energy%%
+###%%(text-decoration:underline; color:grey; )Stored Energy%%
 \\
 Table 1 - Stored energy comparison of Riversimple hydrogen car and gasoline car. Sources: [5,8,15]
 || ||Hydrogen (Riversimple) ||Gasoline
@@ -11,7 +17,7 @@ Table 1 - Stored energy comparison of Riversimple hydrogen car and gasoline car.
 |Total Energy Stored (MJ) |120 |1332
 \\
 From Table 1, it can be seen that the energy required onboard the Riversimple vehicle is approximately ten times less that of a standard gasoline vehicle. So if people are happy filling up their gasoline vehicle and driving around with that amount of energy onboard, then it appears to be reasonable to fill up the Riversimple vehicle with hydrogen. Furthermore, considering the strength of a composite hydrogen tank and the strength of a polyethylene petrol tank, the argument becomes more compelling, as the risk of rupture is considerably lower.
-!%%(text-decoration:underline; color:grey; )Bouyancy%%
+###%%(text-decoration:underline; color:grey; )Bouyancy%%
 \\
 Indeed the energy content is not the only factor which needs to be taken into account. Table 2 compares the density and diffusion coefficients of hydrogen and gasoline.
 \\
@@ -30,7 +36,7 @@ Left car – Hydrogen; Right car – Gasoline.' }]
 \\
 The main results, as seen in Figure 1, are that initially the hydrogen burns vertically upwards and the gasoline pools underneath the vehicle and ignites. After one and a half minutes, the hydrogen supply is burnt off and the fire is extinguished with no damage to the vehicle. On the other hand, the gasoline vehicle is aflame and poses a very dangerous situation.
 \\
-!%%(text-decoration:underline; color:grey; )Flame Characteristics%%
+###%%(text-decoration:underline; color:grey; )Flame Characteristics%%
 \\
 So we have seen so far that the amount of energy stored onboard a hydrogen vehicle is less than that on a gasoline vehicle, and that the buoyancy characteristics make the hydrogen safer than gasoline in the event of a leak. We have also seen visually the effects of a hydrogen and gasoline vehicle fire. The properties of hydrogen and gasoline that affect the flammability and safety in the event of a fire are shown in Table 3 below.
 \\
@@ -48,7 +54,7 @@ In an enclosed space, hydrogen may become more dangerous than gasoline. The wide
 \\
 It must be noted that in the event of hydrogen being ignited, the resulting flame tends to be colourless and so cannot generally be seen. In Figure 1 the flame can be seen due the air containing naturally occurring particles of sodium and other particulate matter [6]. Care must therefore be taken when coming close to a possible hydrogen fire. Some tests include holding a broom out in front so that the broom will ignite when in contact with the fire. Of further note is that the radiated energy from a hydrogen fire is much less than from a gasoline fire. 
 \\
-!%%(text-decoration:underline; color:grey; )Other Factors%%
+###%%(text-decoration:underline; color:grey; )Other Factors%%
 \\
 Other factors that affect the relative safety of hydrogen and gasoline are shown in Table 4 below.
 \\
@@ -61,7 +67,7 @@ Table 4 - Other characteristics of hydrogen and gasoline. 	Sources: [5,8,15]
 \\
 The fact that hydrogen is odourless means that it is difficult to detect and this can lead to safety issues. In practice however, electronic leak detectors will be used to limit this. The other factors in the table are self explanatory.
 \\
-!%%(text-decoration:underline; color:grey; )Further Comments%%
+###%%(text-decoration:underline; color:grey; )Further Comments%%
 \\
 As the FCEV is similar to the gasoline powered car when it comes to performance characteristics, it is fair to assume that there will be a similar number of accidents in terms of collisions. Therefore, the safety aspects of the FCEV only differ in terms of fire safety. NASA has determined that in incidents related to the transportation of hydrogen, 71% of hydrogen releases did not lead to an ignition [8]. Based on this and the above, hydrogen can be considered safer than gasoline as the burning characteristics tend to promote less damage to the vehicle as a whole. This is confirmed by the report to the U.S. Department of Energy who summarise that:
 \\
