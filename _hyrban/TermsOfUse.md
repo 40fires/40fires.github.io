@@ -1,5 +1,6 @@
 ---
-layout: hyrbanTerms of Use
+title: Terms of Use
+layout: default
 date: 2022-06-10
 description: TODO-description
 ---
