@@ -28,15 +28,8 @@
 
              var classFoundList = document.getElementsByClassName('cell');
              for(var i=0;i<classFoundList.length;i++){
-                 classFoundList[i].addEventListener('mouseover', flipCell );
-                 classFoundList[i].addEventListener('mouseout', unflipCell );
-                 /* classFoundList[i].addEventListener('touchend', function (e) { unflipCell(e, "Go"); } ); */
-                 /* classFoundList[i].addEventListener('touchend', unflipCell, true );
-                  * classFoundList[i].addEventListener('touchstart', flipCell, false );
-                  * classFoundList[i].addEventListener('touchleave', unflipCell, false); */
              }
 
-             /*if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0) || (true)) {*/
              if (('ontouchstart' in window) || (navigator.maxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0)) {
                  /* browser with either Touch Events of Pointer Events running on touch-capable device */
                  var b = document.getElementsByTagName('body');
@@ -47,13 +40,6 @@
                          b[0].className += ' ' + 'touch';
                      }
                  }
-                 kwfAddEventListener(document.getElementById('show_nav'), 'click', show_nav);
-                 kwfAddEventListener(document.getElementById('show_nav'), 'touchend', show_nav);
-                 kwfAddEventListener(document.getElementById('menu_work'), 'click', function() { showById('menu_work_sub');});
-                 kwfAddEventListener(document.getElementById('menu_work'), 'touchend', function() { showById('menu_work_sub');});
-             } else {
-                 kwfAddEventListener(document.getElementById('menu_work'), 'click', function() { goToUrl(window.location = '/work');});
-                 kwfAddEventListener(document.getElementById('show_nav'), 'click', show_nav);
              }
          });
 
@@ -72,17 +58,6 @@
 	            <p>This site requires JavaScript. Please enable JavaScript in you browser settings.</p>
 	        </div>
         </noscript>
-
-        <!--<script>
-         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-         ga('create', 'UA-10295841-1', 'auto');
-         ga('require', 'linkid', 'linkid.js');
-         ga('send', 'pageview');
-        </script>-->
 
     </body>
 
