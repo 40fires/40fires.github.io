@@ -27,7 +27,7 @@ In 1800, British scientists William Nicholson and Anthony Carlisle presented a m
 In the early 1960s and the following years, NASA became a major contributor to the development of fuel cells. Alkaline fuel cells were the favoured technology for space applications. Alkaline fuel cell technology is now described as outdated [2] and research into other fuel cell technology is now ongoing.
 
 
-![Figure 1 - William Groves Gas Voltaic Battery](/storage/How+a+Fuel+Cell+Works-att/Grove_FC.png-dir/1.png)
+![Figure 1 - William Groves Gas Voltaic Battery](/storage/How+a+Fuel+Cell+Works-att/Grove_FC.png-dir/1.png)  
 *Figure 1 - William Groves Gas Voltaic Battery [1]*
 
 
@@ -64,7 +64,7 @@ Although the stated efficiency range is 35% to 45%, advances in the technology a
 
 Figure 2 shows a PEM fuel cell which contains flow field plates, an anode, a proton exchange membrane, and a cathode. The main processes involved in a PEM fuel cell are outlined below [4]:
 
-![Figure 2 - PEM Fuel Cell](/storage/How+a+Fuel+Cell+Works/PEM_FC.png-dir/1.png)
+![Figure 2 - PEM Fuel Cell](/storage/How+a+Fuel+Cell+Works-att/PEM_FC.png-dir/1.png)  
 *Figure 2 - PEM Fuel Cell*
 
 
@@ -77,7 +77,8 @@ Figure 2 shows a PEM fuel cell which contains flow field plates, an anode, a pro
 A single fuel cell will produce approximately 1 V. However, this low electrical potential is of no use in an electric vehicle power-train. Therefore, a number of cells (from 10 to 100 in practice) are connected together in series, separated by electrically-conducting plates. This assembly, as illustrated in Figure 3, is then called a fuel cell stack. The electric potential of each cell is then summed to give the electric potential of the whole stack.
 
 
-![Figure 3 - A Fuel Cell Stack](/storage/How+a+Fuel+Cell+Works-att/PEM_Stack.png-dir/1.png) align:center caption='Figure 3 - A Fuel Cell Stack' }]
+![Figure 3 - A Fuel Cell Stack](/storage/How+a+Fuel+Cell+Works-att/PEM_Stack.png-dir/1.png)  
+*Figure 3 - A Fuel Cell Stack'*
 
 The bipolar plates are the electrically-conducting plates which join together the anode of one cell to the cathode of another. The end plates are then connected to the electric circuit and current is allowed to flow.
 
